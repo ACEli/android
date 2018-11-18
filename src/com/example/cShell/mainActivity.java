@@ -21,6 +21,7 @@ public class mainActivity extends Activity {
 	private Button  testShell;
 	private TextView tv;
 	private EditText cmd;
+	String testGit;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
